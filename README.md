@@ -38,7 +38,7 @@ City-level simulations reveal that the same participation increase
 can lead to different — and sometimes opposite — outcomes.
 
 ### Warszawa
-![Turnout vs Satisfaction – Warszawa](images/satisfaction_comparison_Warszawa 2023.png)
+![Turnout vs Satisfaction – Warszawa](images/satisfaction_comparison_Warszawa_2023.png)
 
 In Warsaw, higher participation generally leads to increased average satisfaction.
 The population structure and preference distribution allow additional voters
@@ -47,7 +47,7 @@ to reinforce broadly shared priorities.
 ---
 
 ### Lodz
-![Turnout vs Satisfaction – Lodz](images/satisfaction_comparison_Lodz 2024.png)
+![Turnout vs Satisfaction – Lodz](images/satisfaction_comparison_Lodz_2024.png)
 
 In Lodz, the pattern is different.
 As participation increases, average satisfaction can decline,
@@ -85,13 +85,7 @@ They suggest that:
 
 The complete academic paper (B.Sc. Final Project):
 
-📄 [Price of Abstention in Participatory Budgeting – PDF](paper/Participatory_Budgeting_Final_Project.pdf)
-
-## Full Research Paper
-
-The complete academic paper (B.Sc. Final Project):
-
-📄 [Price of Abstention in Participatory Budgeting – PDF](paper/Participatory_Budgeting_Final_Project.pdf)
+📄 [Price of Abstention in Participatory Budgeting – PDF](Paper/Participatory_Budgeting_Final_Project.pdf)
 
 ## Tech Stack
 
