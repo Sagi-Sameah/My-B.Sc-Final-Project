@@ -56,11 +56,7 @@ reflecting higher preference diversity and conflicting project priorities.
 The same aggregation mechanism produces contrasting results,
 depending on population structure rather than turnout alone.
 
-## When More Participation Hurts
-
-![Warszawa vs Lodz](images/city_comparison.png)
-City-level simulations reveal a more nuanced picture.
-
+#
 In relatively homogeneous electorates, higher turnout improves satisfaction.
 In heterogeneous or fragmented electorates, increased turnout can reduce satisfaction
 under simple aggregation rules.
