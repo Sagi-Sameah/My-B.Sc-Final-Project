@@ -1,5 +1,3 @@
-# My-B.Sc-Final-Project
-
 # Price of Abstention in Participatory Budgeting
 This project explores a simple but non-trivial policy question:
 
